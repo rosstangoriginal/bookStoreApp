@@ -1,6 +1,7 @@
 # bookStoreApp
-Note that this project was prepared by:
+Authors:
 Rajevan Logarajah,
 Ryan Somerville,
 Christopher Ross Tang,
-Hoang Vo
+Hoang Vo.
+This Book Store App is a Java-driven application with a JavaFX GUI. 
